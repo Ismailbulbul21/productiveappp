@@ -43,4 +43,4 @@ The included `vercel.json` rewrites all routes to `index.html` so client-side ro
 - **/delete-account** – Delete Account & Data
 - **/data-safety** – Data Safety (for app store listings)
 
-Contact: [xasuusapp@gmail.com](mailto:xasuusapp@gmail.com)
+Contact: [ismailbulbul381@gmail.com](mailto:ismailbulbul381@gmail.com)

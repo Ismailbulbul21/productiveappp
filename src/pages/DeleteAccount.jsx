@@ -33,7 +33,7 @@ export default function DeleteAccount() {
       <ul>
         <li>
           <strong>By email:</strong> Send an email to{" "}
-          <a href="mailto:xasuusapp@gmail.com">xasuusapp@gmail.com</a> with the
+          <a href="mailto:ismailbulbul381@gmail.com">ismailbulbul381@gmail.com</a> with the
           subject line &quot;Delete my account&quot; and the email address you
           used to sign up. We will process your request within 30 days.
         </li>
@@ -46,7 +46,7 @@ export default function DeleteAccount() {
       <h2 className="text-xl font-semibold mt-8 mb-2">Contact</h2>
       <p>
         For account deletion or other requests:{" "}
-        <a href="mailto:xasuusapp@gmail.com">xasuusapp@gmail.com</a>
+        <a href="mailto:ismailbulbul381@gmail.com">ismailbulbul381@gmail.com</a>
       </p>
     </article>
   );

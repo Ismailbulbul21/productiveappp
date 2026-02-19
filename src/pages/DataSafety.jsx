@@ -58,7 +58,7 @@ export default function DataSafety() {
 
       <h2 className="text-xl font-semibold mt-8 mb-2">Contact</h2>
       <p>
-        <a href="mailto:xasuusapp@gmail.com">xasuusapp@gmail.com</a>
+        <a href="mailto:ismailbulbul381@gmail.com">ismailbulbul381@gmail.com</a>
       </p>
     </article>
   );

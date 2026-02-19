@@ -57,7 +57,7 @@ export default function Layout() {
           </Link>
           <span className="mx-2">·</span>
           <a
-            href="mailto:xasuusapp@gmail.com"
+            href="mailto:ismailbulbul381@gmail.com"
             className="text-slate-600 no-underline hover:text-xasuus-purple hover:underline"
           >
             Contact
