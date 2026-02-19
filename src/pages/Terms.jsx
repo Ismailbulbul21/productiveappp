@@ -9,7 +9,6 @@ export default function Terms() {
   return (
     <article className="prose max-w-none rounded-2xl border border-slate-200 bg-white p-6 sm:p-8 shadow-sm">
       <h1 className="text-2xl sm:text-3xl font-bold text-slate-900 tracking-tight">Terms of Service</h1>
-      <p className="text-sm text-slate-500 mt-1">Last updated: February 2025</p>
 
       <h2 className="text-xl font-semibold mt-8 mb-2">Acceptance</h2>
       <p>
