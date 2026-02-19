@@ -1,0 +1,37 @@
+@import "tailwindcss";
+
+@theme {
+  --color-xasuus-purple: #6d28d9;
+  --color-xasuus-purple-light: #8b5cf6;
+  --color-xasuus-purple-dark: #5b21b6;
+}
+
+body {
+  font-family: "Inter", ui-sans-serif, system-ui, sans-serif;
+  @apply antialiased text-slate-800 min-h-screen;
+}
+
+/* Content links: purple, no underline by default for in-content */
+.prose a {
+  @apply text-xasuus-purple hover:text-xasuus-purple-dark underline underline-offset-2;
+}
+
+/* Content typography */
+.prose ul {
+  @apply list-disc pl-6 my-4 space-y-1;
+}
+.prose p {
+  @apply my-3 leading-relaxed;
+}
+.prose p + ul {
+  @apply mt-2;
+}
+.prose h2 {
+  @apply mt-10 mb-3 text-slate-900 font-semibold text-lg;
+}
+.prose li {
+  @apply my-0.5;
+}
+.prose strong {
+  @apply text-slate-900 font-semibold;
+}
