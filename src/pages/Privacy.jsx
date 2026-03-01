@@ -2,8 +2,8 @@ import { useEffect } from "react";
 
 export default function Privacy() {
   useEffect(() => {
-    document.title = "Privacy Policy | Xasuus";
-    return () => { document.title = "Xasuus"; };
+    document.title = "Privacy Policy | Qorsheyn";
+    return () => { document.title = "Qorsheyn"; };
   }, []);
   return (
     <article className="prose max-w-none rounded-2xl border border-slate-200 bg-white p-6 sm:p-8 shadow-sm">
@@ -11,7 +11,7 @@ export default function Privacy() {
 
       <h2 className="text-xl font-semibold mt-8 mb-2">Who we are</h2>
       <p>
-        Xasuus is a productivity mobile app for Somali-speaking users. We help
+        Qorsheyn is a productivity mobile app for Somali-speaking users. We help
         you plan your day, manage tasks (Maanta, Hawlaha), track goals
         (Yoolalka), and get reminders. This policy explains how we collect,
         use, and protect your information.

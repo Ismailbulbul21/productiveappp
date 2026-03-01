@@ -3,8 +3,8 @@ import { Link } from "react-router-dom";
 
 export default function Terms() {
   useEffect(() => {
-    document.title = "Terms of Service | Xasuus";
-    return () => { document.title = "Xasuus"; };
+    document.title = "Terms of Service | Qorsheyn";
+    return () => { document.title = "Qorsheyn"; };
   }, []);
   return (
     <article className="prose max-w-none rounded-2xl border border-slate-200 bg-white p-6 sm:p-8 shadow-sm">
@@ -12,7 +12,7 @@ export default function Terms() {
 
       <h2 className="text-xl font-semibold mt-8 mb-2">Acceptance</h2>
       <p>
-        By downloading, installing, or using the Xasuus app, you agree to these
+        By downloading, installing, or using the Qorsheyn app, you agree to these
         Terms of Service. If you do not agree, do not use the app.
       </p>
 
@@ -66,7 +66,7 @@ export default function Terms() {
 
       <h2 className="text-xl font-semibold mt-8 mb-2">Limitation of liability</h2>
       <p>
-        To the extent permitted by law, Xasuus and its providers are not liable
+        To the extent permitted by law, Qorsheyn and its providers are not liable
         for indirect, incidental, or consequential damages arising from your use
         of the app.
       </p>

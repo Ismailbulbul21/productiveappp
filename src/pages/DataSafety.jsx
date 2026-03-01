@@ -3,8 +3,8 @@ import { Link } from "react-router-dom";
 
 export default function DataSafety() {
   useEffect(() => {
-    document.title = "Data Safety | Xasuus";
-    return () => { document.title = "Xasuus"; };
+    document.title = "Data Safety | Qorsheyn";
+    return () => { document.title = "Qorsheyn"; };
   }, []);
   return (
     <article className="prose max-w-none rounded-2xl border border-slate-200 bg-white p-6 sm:p-8 shadow-sm">

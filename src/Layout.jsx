@@ -20,7 +20,7 @@ export default function Layout() {
               to="/"
               className="text-xl font-bold text-xasuus-purple hover:text-xasuus-purple-dark no-underline tracking-tight"
             >
-              Xasuus
+              Qorsheyn
             </Link>
             <nav className="flex flex-wrap items-center gap-1 sm:gap-2">
               {navLinks.map(({ to, label }) => {
@@ -53,7 +53,7 @@ export default function Layout() {
             to="/"
             className="text-xasuus-purple font-medium no-underline hover:underline"
           >
-            Xasuus
+            Qorsheyn
           </Link>
           <span className="mx-2">·</span>
           <a

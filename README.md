@@ -1,6 +1,6 @@
-# Xasuus Policy Website
+# Qorsheyn Policy Website
 
-Policy and legal pages for the Xasuus productivity app: Privacy Policy, Terms of Service, Delete Account & Data, and Data Safety.
+Policy and legal pages for the Qorsheyn productivity app: Privacy Policy, Terms of Service, Delete Account & Data, and Data Safety.
 
 ## Tech stack
 

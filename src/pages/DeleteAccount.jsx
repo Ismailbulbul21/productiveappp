@@ -2,8 +2,8 @@ import { useEffect } from "react";
 
 export default function DeleteAccount() {
   useEffect(() => {
-    document.title = "Delete Account & Data | Xasuus";
-    return () => { document.title = "Xasuus"; };
+    document.title = "Delete Account & Data | Qorsheyn";
+    return () => { document.title = "Qorsheyn"; };
   }, []);
   return (
     <article className="prose max-w-none rounded-2xl border border-slate-200 bg-white p-6 sm:p-8 shadow-sm">
@@ -11,7 +11,7 @@ export default function DeleteAccount() {
         Delete Account & Data
       </h1>
       <p className="mt-2">
-        You can permanently delete your Xasuus account and associated data.
+        You can permanently delete your Qorsheyn account and associated data.
       </p>
 
       <h2 className="text-xl font-semibold mt-8 mb-2">
