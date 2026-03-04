@@ -5,6 +5,7 @@ import Privacy from "./pages/Privacy";
 import Terms from "./pages/Terms";
 import DeleteAccount from "./pages/DeleteAccount";
 import DataSafety from "./pages/DataSafety";
+import Contact from "./pages/Contact";
 
 export default function App() {
   return (
@@ -16,6 +17,7 @@ export default function App() {
           <Route path="terms" element={<Terms />} />
           <Route path="delete-account" element={<DeleteAccount />} />
           <Route path="data-safety" element={<DataSafety />} />
+          <Route path="contact" element={<Contact />} />
         </Route>
       </Routes>
     </BrowserRouter>

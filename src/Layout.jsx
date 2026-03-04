@@ -6,6 +6,7 @@ const navLinks = [
   { to: "/terms", label: "Terms of Service" },
   { to: "/delete-account", label: "Delete Account" },
   { to: "/data-safety", label: "Data Safety" },
+  { to: "/contact", label: "Contact" },
 ];
 
 export default function Layout() {
